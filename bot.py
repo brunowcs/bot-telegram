@@ -21,7 +21,7 @@ import PIL.Image
 
 logger.setLevel(logging.DEBUG)
 
-updater = Updater('738462155:AAEE7qRqDnvW0GjQuF-la9GJXgd8t7Mc1oc')
+updater = Updater('738462156:AAEE7qRqDnvW0GjQuF-la9GJX-CHANGE')
 
 def start(bot, update):
     update.message.reply_text(
